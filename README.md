@@ -1,4 +1,4 @@
-# Fake-Job-Positing-Analysis
+# Fake-Job-Posting-Analysis
 
 # Predictive Modeling for Fake Job Postings using Machine Learning Classifiers
 ## Overview
